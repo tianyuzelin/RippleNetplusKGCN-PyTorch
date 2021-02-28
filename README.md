@@ -1,4 +1,4 @@
-# RippleNet
+# Ripple
 
 This repository is a **PyTorch** implementation of a model  that combines RippleNet([arXiv](https://arxiv.org/abs/1803.03467)) and KGCN(https://arxiv.org/abs/1904.12575) together:
 > RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems  
